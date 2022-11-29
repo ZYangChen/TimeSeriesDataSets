@@ -1,2 +1,2 @@
 # TimeSeriesDataSets
-An unofficial Pytorch archive of time series datasets
+An unofficial archive of time series datasets
