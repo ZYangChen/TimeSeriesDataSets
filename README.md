@@ -49,7 +49,7 @@ Thanks to Prof.<a href="https://www.cs.ucr.edu/~eamonn/">Eamonn Keogh</a> and hi
 </br><a href="http://www.timeseriesclassification.com/">Time series classification这个网站</a>可以看到很多关于时间序列分类研究的信息。</li>
 <li>
 <a href="https://github.com/sktime/sktime">Sktime</a> is a library for time series analysis in Python. It provides a unified interface for multiple time series learning tasks.</br>
-<a href="https://github.com/sktime/sktime">Sktime</a>是一个很好用的用作时间序列学习任务开发的python库！
+<a href="https://github.com/sktime/sktime">Sktime</a>是一个很好用的时间序列算法开发的python库！
 </li>
 </ul>
 
