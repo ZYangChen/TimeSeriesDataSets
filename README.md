@@ -32,7 +32,7 @@ UCR时间序列数据集下载地址整理。包含单变量时间序列数据�
   
 <tr>
 <th>多变量Multivariate</th><th>ts</th>
-<th><a href="http://www.timeseriesclassification.com/Downloads/Archives/Multivariate2018_ts.zip">sktime formatted ts files</a></th>
+<th><a href="http://www.timeseriesclassification.com/Downloads/Archives/Multivariate2018_ts.zip">Sktime formatted ts files</a></th>
 </tr>
 </table>
 
