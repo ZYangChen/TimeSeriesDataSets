@@ -39,7 +39,7 @@ UCR时间序列数据集下载地址整理。
 ## Source
 </br>
 Thanks to Prof.<a href="https://www.cs.ucr.edu/~eamonn/">Eamonn Keogh</a> and his team. The UCR archive developed by them can be visited <a href="https://www.cs.ucr.edu/~eamonn/time_series_data_2018/">here</a>. </br>
-由<a href="https://www.cs.ucr.edu/~eamonn/">Eamonn Keogh</a>教授及其团队开发的UCR数据集可以在<a href="https://www.cs.ucr.edu/~eamonn/time_series_data_2018/">这里</a>下载。
+感谢由<a href="https://www.cs.ucr.edu/~eamonn/">Eamonn Keogh</a>教授及其团队开发的UCR数据集。这个数据集的相关信息可以在<a href="https://www.cs.ucr.edu/~eamonn/time_series_data_2018/">这里</a>看到。
 </br>
 
 ## Supplement
