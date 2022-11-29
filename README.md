@@ -45,7 +45,7 @@ Thanks to Prof.<a href="https://www.cs.ucr.edu/~eamonn/">Eamonn Keogh</a> and hi
 ## Supplement
 </br>
 <ul>
-<li>There are many time series classification researches can be browsed <a href="http://www.timeseriesclassification.com/">here</a>.
+<li>There are many time series classification researches <a href="http://www.timeseriesclassification.com/">here</a>.
 </br><a href="http://www.timeseriesclassification.com/">Time series classification这个网站</a>可以看到很多关于时间序列分类研究的信息。</li>
 <li>
 <a href="https://github.com/sktime/sktime">Sktime</a> is a library for time series analysis in Python. It provides a unified interface for multiple time series learning tasks.</br>
