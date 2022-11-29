@@ -41,13 +41,15 @@ UCR时间序列数据集下载地址整理。
 Thanks to Prof.<a href="https://www.cs.ucr.edu/~eamonn/">Eamonn Keogh</a> and his team. The UCR archive developed by them can be visited <a href="https://www.cs.ucr.edu/~eamonn/time_series_data_2018/">here</a>. </br>
 由<a href="https://www.cs.ucr.edu/~eamonn/">Eamonn Keogh</a>教授及其团队开发的UCR数据集可以在<a href="https://www.cs.ucr.edu/~eamonn/time_series_data_2018/">这里</a>下载。
 </br>
+
 ## Utils
 </br>
 <ul>
-There are many time series classification researches can be browsed <a href="http://www.timeseriesclassification.com/">here</a>.
-</br><a href="http://www.timeseriesclassification.com/">Time series classification这个网站</a>可以看到很多关于时间序列分类研究的信息。</ul>
-<ul><a href="https://github.com/sktime/sktime">Sktime</a> is a library for time series analysis in Python. It provides a unified interface for multiple time series learning tasks.</br>
+<li>There are many time series classification researches can be browsed <a href="http://www.timeseriesclassification.com/">here</a>.
+</br><a href="http://www.timeseriesclassification.com/">Time series classification这个网站</a>可以看到很多关于时间序列分类研究的信息。</li>
+<li>
+<a href="https://github.com/sktime/sktime">Sktime</a> is a library for time series analysis in Python. It provides a unified interface for multiple time series learning tasks.</br>
 <a href="https://github.com/sktime/sktime">Sktime</a>是一个很好用的用作时间序列学习任务开发的python库！
-</ul>
+</li>
 </ul>
 
