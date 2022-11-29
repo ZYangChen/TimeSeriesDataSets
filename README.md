@@ -1,5 +1,5 @@
-# TimeSeriesDataSets
-An unofficial archive of time series datasets.</br>
+# An unofficial archive of time series datasets
+</br>
 非官方的时间序列数据集下载地址整理。包含单变量时间序列数据集的内容和多变量时间数据集的内容。
 ## Datasets
 <table align="center" style=" margin:auto;text-align: center">
