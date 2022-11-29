@@ -42,7 +42,7 @@ Thanks to Prof.<a href="https://www.cs.ucr.edu/~eamonn/">Eamonn Keogh</a> and hi
 由<a href="https://www.cs.ucr.edu/~eamonn/">Eamonn Keogh</a>教授及其团队开发的UCR数据集可以在<a href="https://www.cs.ucr.edu/~eamonn/time_series_data_2018/">这里</a>下载。
 </br>
 
-## Utils
+## Supplement
 </br>
 <ul>
 <li>There are many time series classification researches can be browsed <a href="http://www.timeseriesclassification.com/">here</a>.
