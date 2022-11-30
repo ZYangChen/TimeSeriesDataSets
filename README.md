@@ -12,32 +12,32 @@ UCR时间序列数据集下载地址整理。
 <tr>
 <th>单维Univariate</th><th>arff</th>
 <th><a href="http://www.timeseriesclassification.com/Downloads/Archives/Univariate2018_arff.zip">Univariate Weka formatted ARFF files and .txt files</a></th>
-<th><a href="https://pan.baidu.com/s/1MZP6aunTqt-Yffx4pBiwlA">百度网盘</a>提取码:HQU2</th>
+<th><a href="https://pan.baidu.com/s/14peni59GPTkMpuTPk32CHg">百度网盘</a>提取码:HQU5</th>
 </tr>
   
 <tr>
 <th>单维Univariate</th><th>ts</th>
 <th><a href="http://www.timeseriesclassification.com/Downloads/Archives/Univariate2018_ts.zip">Univariate sktime formatted ts files</a></th>
-<th><a href="https://pan.baidu.com/s/111xInQi5zMSgBg-H4GFBqA">百度网盘</a>提取码:HQU1</th>
+<th><a href="https://pan.baidu.com/s/1KwU3K-31cqyfCE3OQ1g2pg">百度网盘</a>提取码:HQU4</th>
 </tr>
 
 <tr>
 <th>单维Univariate</th><th>tsv</th>
 <th><a href="https://www.cs.ucr.edu/~eamonn/time_series_data_2018/UCRArchive_2018.zip">UCRArchive_2018</a> password:someone</th>
-<th>Coming soon</th>
+<th><a href="https://pan.baidu.com/s/13OwO7TFeYwFgYqRA-wZGug">百度网盘</a>提取码:HQU3</th>
 </tr>
 
 
 <tr>
 <th>多维Multivariate</th><th>arff</th>
 <th><a href="http://www.timeseriesclassification.com/Downloads/Archives/Multivariate2018_arff.zip">Multivariate Weka formatted ARFF files (and .txt files)</a></th>
-<th>Coming soon</th>
+<th><a href="https://pan.baidu.com/s/1MZP6aunTqt-Yffx4pBiwlA">百度网盘</a>提取码:HQU2</th>
 </tr>
   
 <tr>
 <th>多维Multivariate</th><th>ts</th>
 <th><a href="http://www.timeseriesclassification.com/Downloads/Archives/Multivariate2018_ts.zip">Sktime formatted ts files</a></th>
-<th>Coming soon</th>
+<th><a href="https://pan.baidu.com/s/111xInQi5zMSgBg-H4GFBqA">百度网盘</a>提取码:HQU1</th>
 </tr>
 </table>
 
