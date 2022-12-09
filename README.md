@@ -55,27 +55,32 @@ Thanks to Prof.<a href="https://www.cs.ucr.edu/~eamonn/">Eamonn Keogh</a> and hi
 ## The Numenta Anomaly Benchmark
 </br>
 It is composed of over 50 labeled real-world and artificial timeseries data files plus a novel scoring mechanism designed for real-time applications.
-Data is available at <a herf="https://github.com/numenta/NAB/tree/master/data">numenta NAB</a>
+Data is available at <a href="https://github.com/numenta/NAB/tree/master/data">numenta NAB</a>
 </br>
+
 ## Awesome Public Datasets
 </br>
-Data is available at <a herf="https://github.com/awesomedata/awesome-public-datasets">Awesome Public Datasets</a>
+Data is available at <a href="https://github.com/awesomedata/awesome-public-datasets">Awesome Public Datasets</a>
 </br>
+
 ## Million song Datasets
 </br>
 A music datasets.
-Data is available at <a herf="http://millionsongdataset.com/">Million songd Datasets</a>
+Data is available at <a href="http://millionsongdataset.com/">Million songd Datasets</a>
 </br>
+
 ## National Datasets
 </br>
 Data about Chinese economic.
-Data is available at <a herf="https://data.stats.gov.cn/">国家数据</a>
+Data is available at <a href="https://data.stats.gov.cn/">国家数据</a>
 </br>
+
 ## CEIC
 </br>
 Data about many countries' economic.
-Data is available at <a herf="https://www.ceicdata.com/zh-hans">CEIC</a>
+Data is available at <a href="https://www.ceicdata.com/zh-hans">CEIC</a>
 </br>
+
 ## Supplement
 </br>
 <ul>
