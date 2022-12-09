@@ -60,25 +60,25 @@ Data is available at <a href="https://github.com/numenta/NAB/tree/master/data">n
 
 ## Awesome Public Datasets
 </br>
-Data is available at <a href="https://github.com/awesomedata/awesome-public-datasets">Awesome Public Datasets</a>
+Data is available at <a href="https://github.com/awesomedata/awesome-public-datasets">Awesome Public Datasets</a>.
 </br>
 
 ## Million song Datasets
 </br>
 A music datasets.
-Data is available at <a href="http://millionsongdataset.com/">Million songd Datasets</a>
+Data is available at <a href="http://millionsongdataset.com/">Million songd Datasets</a>.
 </br>
 
 ## National Datasets
 </br>
 Data about Chinese economic.
-Data is available at <a href="https://data.stats.gov.cn/">国家数据</a>
+Data is available at <a href="https://data.stats.gov.cn/">国家数据</a>.
 </br>
 
 ## CEIC
 </br>
 Data about many countries' economic.
-Data is available at <a href="https://www.ceicdata.com/zh-hans">CEIC</a>
+Data is available at <a href="https://www.ceicdata.com/zh-hans">CEIC</a>.
 </br>
 
 ## Supplement
@@ -91,7 +91,7 @@ Data is available at <a href="https://www.ceicdata.com/zh-hans">CEIC</a>
 <a href="https://github.com/sktime/sktime">Sktime</a>是一个很好用的时间序列算法开发python库！
 </li>
 <li>
-More data sets are available at <a href="https://figshare.com/">figshare</a>
+More data sets are available at <a href="https://figshare.com/">figshare</a>.
 </li>
 </ul>
 
