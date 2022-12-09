@@ -1,10 +1,13 @@
-# An unofficial archive of UCR time series datasets
+# Arrangement of widely used time series data sets
+</br>
+
+
+## An unofficial archive of UCR time series datasets
 </br>
 UCR时间序列数据集下载地址整理。
-
-## Datasets
-
-
+</br>
+### Datasets Download
+</br>
 <table align="center" style=" margin:auto;text-align: center">
 <tr>
 <th>类型Type</th><th>数据集格式Format</th><th>官方下载地址Official Download</th><th>网盘下载地址Unofficial Download</th>
@@ -41,12 +44,36 @@ UCR时间序列数据集下载地址整理。
 </tr>
 </table>
 
-## Source
+### Source
 </br>
 Thanks to Prof.<a href="https://www.cs.ucr.edu/~eamonn/">Eamonn Keogh</a> and his team. The UCR archive developed by them can be visited <a href="https://www.cs.ucr.edu/~eamonn/time_series_data_2018/">here</a>. </br>
 感谢由<a href="https://www.cs.ucr.edu/~eamonn/">Eamonn Keogh</a>教授及其团队开发的UCR数据集。这个数据集的相关信息可以在<a href="https://www.cs.ucr.edu/~eamonn/time_series_data_2018/">这里</a>看到。
 </br>
 
+## The Numenta Anomaly Benchmark
+</br>
+It is composed of over 50 labeled real-world and artificial timeseries data files plus a novel scoring mechanism designed for real-time applications.
+Data is available at <a herf="https://github.com/numenta/NAB/tree/master/data">numenta NAB</a>
+</br>
+## Awesome Public Datasets
+</br>
+Data is available at <a herf="https://github.com/awesomedata/awesome-public-datasets">Awesome Public Datasets</a>
+</br>
+## Million song Datasets
+</br>
+A music datasets.
+Data is available at <a herf="http://millionsongdataset.com/">Million songd Datasets</a>
+</br>
+## National Datasets
+</br>
+Data about Chinese economic.
+Data is available at <a herf="https://data.stats.gov.cn/">国家数据</a>
+</br>
+## CEIC
+</br>
+Data about many countries' economic.
+Data is available at <a herf="https://www.ceicdata.com/zh-hans">CEIC</a>
+</br>
 ## Supplement
 </br>
 <ul>
@@ -55,6 +82,9 @@ Thanks to Prof.<a href="https://www.cs.ucr.edu/~eamonn/">Eamonn Keogh</a> and hi
 <li>
 <a href="https://github.com/sktime/sktime">Sktime</a> is a library for time series analysis in Python. It provides a unified interface for multiple time series learning tasks.</br>
 <a href="https://github.com/sktime/sktime">Sktime</a>是一个很好用的时间序列算法开发python库！
+</li>
+<li>
+More data sets are available at <a href="https://figshare.com/">figshare</a>
 </li>
 </ul>
 
