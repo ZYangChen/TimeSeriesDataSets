@@ -1,4 +1,4 @@
-# Arrangement of widely used time series data sets
+# Arrangement of widely used time series datasets
 </br>
 
 
