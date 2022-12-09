@@ -6,8 +6,10 @@
 </br>
 UCR时间序列数据集下载地址整理。
 </br>
+
 ### Datasets Download
 </br>
+
 <table align="center" style=" margin:auto;text-align: center">
 <tr>
 <th>类型Type</th><th>数据集格式Format</th><th>官方下载地址Official Download</th><th>网盘下载地址Unofficial Download</th>
