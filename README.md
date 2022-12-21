@@ -1,4 +1,4 @@
-# Arrangement of widely used time series datasets
+# An arrangement of widely used time series datasets
 
 </br>
 UCR时间序列数据集下载地址整理。
